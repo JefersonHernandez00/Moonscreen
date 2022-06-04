@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "156517826078",
+    "firebase_url": "https://apps-firux.firebaseio.com",
+    "project_id": "apps-firux",
+    "storage_bucket": "apps-firux.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156517826078:android:0569f9e53f777085ce380f",
+        "android_client_info": {
+          "package_name": "com.firux.aplicacion.bleepp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156517826078-a88m2be79p25aaprv16aeu7d4l5aatip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firux.aplicacion.bleepp",
+            "certificate_hash": "47aef7b93657987ebee9a4116b6255d23e7e5a09"
+          }
+        },
+        {
+          "client_id": "156517826078-2ga4a4bvaph135iv95io7qf945mf0tdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLEfstKBD_z9wXAatrFk33fcrLm9KMSB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156517826078-2ga4a4bvaph135iv95io7qf945mf0tdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156517826078:android:dc48cc7933674e93ce380f",
+        "android_client_info": {
+          "package_name": "com.firux.app.cp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156517826078-2ga4a4bvaph135iv95io7qf945mf0tdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLEfstKBD_z9wXAatrFk33fcrLm9KMSB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156517826078-2ga4a4bvaph135iv95io7qf945mf0tdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156517826078:android:dcd3011ef5c810f2ce380f",
+        "android_client_info": {
+          "package_name": "com.firux_app.mons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156517826078-2ga4a4bvaph135iv95io7qf945mf0tdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLEfstKBD_z9wXAatrFk33fcrLm9KMSB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156517826078-2ga4a4bvaph135iv95io7qf945mf0tdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

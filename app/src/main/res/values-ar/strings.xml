@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moonscreen</string>
+    <string name="CBrillo">التحكم في درجة السطوع</string>
+    <string name="filtro">فلتر</string>
+    <string name="Calificar_App">معدل التطبيقات</string>
+    <string name="playNoD">اللعب مخزن غير متوفر</string>
+    <string name="LD">المصباح الأمامي</string>
+    <string name="LT">مصباح يدوي الخلفي</string>
+    <string name="PermisoPantalla">شاشة إذن المطلوب</string>
+    <string name="Permisoconfi">إعدادات الأذونات المطلوبة</string>
+    <string name="Permisocam">غرفة إذن المطلوب</string>
+    <string name="Activar">نشط</string>
+    <string name="NoSensor">لا يوجد جهاز استشعار الضوء الخارجي</string>
+    <string name="MAutoActivado">مجموعة تلقائيا</string>
+    <string name="NoFfrontal">لا فلاش أمامي</string>
+    <string name="PermisoOK">إذن منح</string>
+    <string name="PermisoRe">تم رفض هذا التصريح من قبل المستخدم</string>
+    <string name="ajuste">إعدادات</string>
+    <string name="selColor">مرشح اللون</string>
+    <string name="cancelar">إلغاء</string>
+    <string name="inviteA">دعوة الأصدقاء</string>
+    <string name="inviteAmigos">دعوة أصدقائك للاستخدام MoonScreen</string>
+    <string name="notcont">تحقق من اتصال الإنترنت</string>
+    <string name="MostrarNoti">مشاهدة إعلام</string>
+    <string name="textshare">تقليل سطوع الشاشة أقل من الحد الأدنى، أكثر مرشحات لونية والمصباح الكهربائي!</string>
+    <string name="Alpha">ألفا</string>
+    <string name="NoFlash">لا فلاش</string>
+    <string name="camOcu">منزل المحتلة من قبل تطبيق آخر</string>
+
+    <string-array name="colores">
+        <item >أصفر</item>
+        <item >أحمر</item>
+        <item >أخضر</item>
+    </string-array>
+</resources>

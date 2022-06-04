@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moonscreen</string>
+    <string name="CBrillo">亮度控制</string>
+    <string name="filtro">过滤器</string>
+    <string name="Calificar_App">为应用程序评分</string>
+    <string name="playNoD">Play商店无法使用</string>
+    <string name="LD">前大灯</string>
+    <string name="LT">后手电筒</string>
+    <string name="PermisoPantalla">请求准许屏</string>
+    <string name="Permisoconfi">请求的权限设置</string>
+    <string name="Permisocam">请求的权限室</string>
+    <string name="Activar">激活</string>
+    <string name="NoSensor">没有外部光传感器</string>
+    <string name="MAutoActivado">自动设置</string>
+    <string name="NoFfrontal">没有正面闪光</string>
+    <string name="PermisoOK">授予的权限</string>
+    <string name="PermisoRe">该许可证已被拒绝用户</string>
+    <string name="ajuste">设置</string>
+    <string name="selColor">彩色滤光片</string>
+    <string name="cancelar">取消</string>
+    <string name="inviteA">邀请朋友</string>
+    <string name="inviteAmigos">邀请您的朋友使用MoonScreen</string>
+    <string name="notcont">检查互联网连接</string>
+    <string name="MostrarNoti">显示通知</string>
+    <string name="textshare">降低最低下面的屏幕亮度，更多的色彩过滤器和手电筒！</string>
+    <string name="Alpha">阿尔法</string>
+    <string name="NoFlash">无频闪</string>
+    <string name="camOcu">房子被其他应用程序所占用</string>
+
+    <string-array name="colores">
+        <item >黄</item>
+        <item >红</item>
+        <item >绿</item>
+    </string-array>
+</resources>

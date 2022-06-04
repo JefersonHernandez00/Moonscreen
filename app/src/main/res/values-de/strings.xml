@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moonscreen</string>
+    <string name="CBrillo">Helligkeitsregelung</string>
+    <string name="filtro">Filter</string>
+    <string name="Calificar_App">bewerten App</string>
+    <string name="playNoD">Play Store nicht verfügbar</string>
+    <string name="LD">Frontscheinwerfer</string>
+    <string name="LT">Rück Taschenlampe</string>
+    <string name="PermisoPantalla">bat um Erlaubnis, Bildschirm</string>
+    <string name="Permisoconfi">angeforderten Berechtigungseinstellungen</string>
+    <string name="Permisocam">bat um Erlaubnis, Kammer</string>
+    <string name="Activar">aktivieren</string>
+    <string name="NoSensor">Kein externer Lichtsensor</string>
+    <string name="MAutoActivado">automatisch</string>
+    <string name="NoFfrontal">Kein Frontal Blitz</string>
+    <string name="PermisoOK">Genehmigung erteilt</string>
+    <string name="PermisoRe">Diese Genehmigung wurde vom Benutzer abgelehnt</string>
+    <string name="ajuste">Einstellungen</string>
+    <string name="selColor">Farbfilter</string>
+    <string name="cancelar">stornieren</string>
+    <string name="inviteA">Freunde einladen</string>
+    <string name="inviteAmigos">Laden Sie Ihre Freunde zu verwenden, MoonScreen</string>
+    <string name="notcont">Überprüfen Sie die Internetverbindung</string>
+    <string name="MostrarNoti">Show Mitteilung</string>
+    <string name="textshare">Reduzieren Sie die Bildschirmhelligkeit unter dem Minimum, mehr Farbfilter und Taschenlampe!</string>
+    <string name="Alpha">alpha</string>
+    <string name="NoFlash">kein Blitz</string>
+    <string name="camOcu">Haus von einer anderen Anwendung belegt</string>
+
+    <string-array name="colores">
+        <item >gelb</item>
+        <item >rot</item>
+        <item >grün</item>
+    </string-array>
+</resources>

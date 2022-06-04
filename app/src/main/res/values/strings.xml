@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moonscreen</string>
+    <string name="CBrillo">Brightness Control</string>
+    <string name="filtro">Filter</string>
+    <string name="Calificar_App">App Rate</string>
+    <string name="playNoD">Play Store not available</string>
+    <string name="LD">Front Flashlight</string>
+    <string name="LT">Rear Flashlight</string>
+    <string name="PermisoPantalla">Screen permission is requested</string>
+    <string name="Permisoconfi">Configuration permission is requested </string>
+    <string name="Permisocam">Camera permission is requested </string>
+    <string name="Activar">Activate</string>
+    <string name="NoSensor">No external light sensor</string>
+    <string name="MAutoActivado">Automatic mode set</string>
+    <string name="NoFfrontal">No flash front</string>
+    <string name="PermisoOK">Permission granted</string>
+    <string name="PermisoRe">This permission has been rejected by the user</string>
+    <string name="ajuste">Settings</string>
+    <string name="selColor">Filter Color</string>
+    <string name="cancelar">Cancel</string>
+    <string name="inviteA">Invite friends</string>
+    <string name="inviteAmigos">Invite your friends to use MoonScreen</string>
+    <string name="notcont">Check the internet connection</string>
+    <string name="MostrarNoti">Show Notification</string>
+    <string name="textshare">Reduce screen brightness by less than the minimum, plus color filters and flashlight!</string>
+    <string name="Alpha">Alpha</string>
+    <string name="NoFlash">No flash</string>
+    <string name="camOcu">Camera occupied by another application</string>
+
+
+    <string-array name="colores">
+        <item >Yellow</item>
+        <item >Red</item>
+        <item >Green</item>
+    </string-array>
+</resources>

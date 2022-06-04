@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moonscreen</string>
+    <string name="CBrillo">明るさコントロール</string>
+    <string name="filtro">フィルタ</string>
+    <string name="Calificar_App">レートのApp</string>
+    <string name="playNoD">ストアが利用できない再生</string>
+    <string name="LD">フロントヘッドライト</string>
+    <string name="LT">リア懐中電灯</string>
+    <string name="PermisoPantalla">要求された許可画面</string>
+    <string name="Permisoconfi">要求されたアクセス権の設定</string>
+    <string name="Permisocam">要求された権限室</string>
+    <string name="Activar">アクティブ</string>
+    <string name="NoSensor">いいえ、外光センサーません</string>
+    <string name="MAutoActivado">自動的に設定</string>
+    <string name="NoFfrontal">いいえ前頭フラッシュません</string>
+    <string name="PermisoOK">権限付与</string>
+    <string name="PermisoRe">この許可は、ユーザーによって拒否されました</string>
+    <string name="ajuste">設定</string>
+    <string name="selColor">カラーフィルタ</string>
+    <string name="cancelar">キャンセル</string>
+    <string name="inviteA">友達を招待</string>
+    <string name="inviteAmigos">MoonScreenを使用するために友達を招待</string>
+    <string name="notcont">インターネット接続を確認してください</string>
+    <string name="MostrarNoti">ショーの通知</string>
+    <string name="textshare">最低限、以下の画面の明るさを減らして、より多くのカラーフィルタと懐中電灯！</string>
+    <string name="Alpha">アルファ</string>
+    <string name="NoFlash">発光禁止</string>
+    <string name="camOcu">別のアプリケーションによって占有ハウス</string>
+
+    <string-array name="colores">
+        <item >黄色</item>
+        <item >赤</item>
+        <item >グリーン</item>
+    </string-array>
+</resources>

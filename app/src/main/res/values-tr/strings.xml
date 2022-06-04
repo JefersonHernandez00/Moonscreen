@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moonscreen</string>
+    <string name="CBrillo">parlaklık kontrolü</string>
+    <string name="filtro">filtre</string>
+    <string name="Calificar_App">Uygulamayı</string>
+    <string name="playNoD">Mağaza mevcut değil oyna</string>
+    <string name="LD">Ön far</string>
+    <string name="LT">Arka feneri</string>
+    <string name="PermisoPantalla">İstenen izin ekranı</string>
+    <string name="Permisoconfi">İstenen izin ayarları</string>
+    <string name="Permisocam">İstenen izin haznesi</string>
+    <string name="Activar">etkinleştirmek</string>
+    <string name="NoSensor">Harici ışık sensörü</string>
+    <string name="MAutoActivado">otomatik olarak ayarlanır</string>
+    <string name="NoFfrontal">Hiçbir ön flaş</string>
+    <string name="PermisoOK">izin verildikten</string>
+    <string name="PermisoRe">Bu izin kullanıcı tarafından reddedildi</string>
+    <string name="ajuste">ayarlar</string>
+    <string name="selColor">Renk filtresi</string>
+    <string name="cancelar">iptal</string>
+    <string name="inviteA">Arkadaşlarınızı davet edin</string>
+    <string name="inviteAmigos">MoonScreen kullanmak için arkadaşlarınızı davet edin</string>
+    <string name="notcont">İnternet bağlantısını kontrol</string>
+    <string name="MostrarNoti">göster Bildirimi</string>
+    <string name="textshare">Asgari Aşağıdaki ekran parlaklığını, daha renk filtreleri ve el feneri azaltın!</string>
+    <string name="Alpha">alfa</string>
+    <string name="NoFlash">flaş yok</string>
+    <string name="camOcu">Ev başka bir uygulama tarafından işgal</string>
+
+    <string-array name="colores">
+        <item >sarı</item>
+        <item >kırmızı</item>
+        <item >yeşil</item>
+    </string-array>
+</resources>

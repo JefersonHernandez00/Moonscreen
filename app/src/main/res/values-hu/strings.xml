@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moonscreen</string>
+    <string name="CBrillo">Fényerő-szabályozás</string>
+    <string name="filtro">szűrő</string>
+    <string name="Calificar_App">Rate App</string>
+    <string name="playNoD">Play Áruház nem elérhető</string>
+    <string name="LD">első fényszóró</string>
+    <string name="LT">hátsó lámpa</string>
+    <string name="PermisoPantalla">engedélyt kért képernyő</string>
+    <string name="Permisoconfi">engedélyt kért beállítások</string>
+    <string name="Permisocam">engedélyt kért kamra</string>
+    <string name="Activar">aktiválja</string>
+    <string name="NoSensor">Nincs szükség külső fényérzékelő</string>
+    <string name="MAutoActivado">automatikusan beállítja</string>
+    <string name="NoFfrontal">Nem frontális vaku</string>
+    <string name="PermisoOK">kiadott engedély</string>
+    <string name="PermisoRe">Ezt az engedélyt már elutasította a felhasználó</string>
+    <string name="ajuste">beállítások</string>
+    <string name="selColor">Színes filter</string>
+    <string name="cancelar">megszünteti</string>
+    <string name="inviteA">Hívja meg barátait</string>
+    <string name="inviteAmigos">Hívd meg a barátaidat, hogy használja MoonScreen</string>
+    <string name="notcont">Az internetkapcsolat ellenőrzése</string>
+    <string name="MostrarNoti">megjelenítése Notification</string>
+    <string name="textshare">Csökkentse a képernyő fényerejét a minimális, még színszűrők és zseblámpa!</string>
+    <string name="Alpha">alfa</string>
+    <string name="NoFlash">Nincs flash</string>
+    <string name="camOcu">House által elfoglalt egy másik alkalmazás</string>
+
+    <string-array name="colores">
+        <item >sárga</item>
+        <item >piros</item>
+        <item >zöld</item>
+    </string-array>
+</resources>

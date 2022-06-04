@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Moonscreen</string>
+<string name="CBrillo">Control de Brillo</string>
+<string name="filtro">Filtro</string>
+<string name="Calificar_App">Calificar App</string>
+<string name="playNoD">Play Store no disponible</string>
+<string name="LD">Linterna Delantera</string>
+<string name="LT">Linterna Trasera</string>
+<string name="PermisoPantalla">Se Solicita permiso de pantalla</string>
+<string name="Permisoconfi">Se Solicita permiso de configuración</string>
+<string name="Permisocam">Se Solicita permiso de cámara</string>
+<string name="Activar">Activar</string>
+<string name="NoSensor">No hay sensor de luz externa</string>
+<string name="MAutoActivado">Modo automático establecido</string>
+<string name="NoFfrontal">No hay flash frontal</string>
+<string name="PermisoOK">Permiso Otorgado</string>
+<string name="PermisoRe">Este permiso ha sido rechazado por el usuario</string>
+<string name="ajuste">Ajustes</string>
+<string name="selColor">Color del filtro</string>
+<string name="cancelar">Cancelar</string>
+<string name="inviteA">Invitar amigos</string>
+<string name="inviteAmigos">Invita a tus amigos para que usen MoonScreen</string>
+<string name="notcont">Compruebe la conexión a internet</string>
+<string name="MostrarNoti">Mostrar Notificación</string>
+<string name="textshare">Reduce el brillo de pantalla menos del mínimo, mas filtros de color y linterna!</string>
+<string name="Alpha">Alfa</string>
+    <string name="NoFlash">No hay flash</string>
+    <string name="camOcu">Cámara ocupada por otra aplicación</string>
+
+    <string-array name="colores">
+    <item >Amarillo</item>
+    <item >Rojo</item>
+    <item >Verde</item>
+</string-array>
+</resources>

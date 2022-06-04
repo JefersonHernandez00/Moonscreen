@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moonscreen</string>
+    <string name="CBrillo">Kontrol kecerahan</string>
+    <string name="filtro">filter</string>
+    <string name="Calificar_App">tingkat App</string>
+    <string name="playNoD">Play Store tidak tersedia</string>
+    <string name="LD">lampu depan</string>
+    <string name="LT">senter belakang</string>
+    <string name="PermisoPantalla">layar izin yang diminta</string>
+    <string name="Permisoconfi">pengaturan izin yang diminta</string>
+    <string name="Permisocam">chamber izin yang diminta</string>
+    <string name="Activar">mengaktifkan</string>
+    <string name="NoSensor">Tidak ada sensor cahaya eksternal</string>
+    <string name="MAutoActivado">secara otomatis mengatur</string>
+    <string name="NoFfrontal">Tidak ada flash frontal</string>
+    <string name="PermisoOK">izin yang diberikan</string>
+    <string name="PermisoRe">Izin ini telah ditolak oleh pengguna</string>
+    <string name="ajuste">pengaturan</string>
+    <string name="selColor">Saringan warna</string>
+    <string name="cancelar">membatalkan</string>
+    <string name="inviteA">Undang teman</string>
+    <string name="inviteAmigos">Undang teman Anda untuk menggunakan MoonScreen</string>
+    <string name="notcont">Periksa koneksi Internet</string>
+    <string name="MostrarNoti">Tampilkan Pemberitahuan</string>
+    <string name="textshare">Kurangi kecerahan layar di bawah minimum, filter warna yang lebih dan senter!</string>
+    <string name="Alpha">alfa</string>
+    <string name="NoFlash">Tidak ada flash</string>
+    <string name="camOcu">Rumah yang ditempati oleh aplikasi lain</string>
+
+    <string-array name="colores">
+        <item >kuning</item>
+        <item >merah</item>
+        <item >hijau</item>
+    </string-array>
+</resources>

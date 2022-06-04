@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moonscreen</string>
+    <string name="CBrillo">контроль яркости</string>
+    <string name="filtro">фильтр</string>
+    <string name="Calificar_App">Оценить приложение</string>
+    <string name="playNoD">Play Маркета не доступен</string>
+    <string name="LD">передняя фара</string>
+    <string name="LT">Задний фонарь</string>
+    <string name="PermisoPantalla">запрошенный экран разрешения</string>
+    <string name="Permisoconfi">запрошенные параметры разрешений</string>
+    <string name="Permisocam">просил разрешение камеры</string>
+    <string name="Activar">активировать</string>
+    <string name="NoSensor">Нет внешнего датчика света</string>
+    <string name="MAutoActivado">автоматически устанавливается</string>
+    <string name="NoFfrontal">Нет фронтальной вспышки</string>
+    <string name="PermisoOK">Участок под застройку</string>
+    <string name="PermisoRe">Это разрешение было отклонено пользователем</string>
+    <string name="ajuste">настройки</string>
+    <string name="selColor">Светофильтр</string>
+    <string name="cancelar">отменить</string>
+    <string name="inviteA">Пригласить друзей</string>
+    <string name="inviteAmigos">Пригласите своих друзей, чтобы использовать MoonScreen</string>
+    <string name="notcont">Проверьте подключение к Интернету</string>
+    <string name="MostrarNoti">Показать уведомление</string>
+    <string name="textshare">Уменьшите яркость экрана меньше, чем минимум, больше цветных фильтров и фонарик!</string>
+    <string name="Alpha">альфа</string>
+    <string name="NoFlash">Нет вспышки</string>
+    <string name="camOcu">Дом занят другим приложением</string>
+
+    <string-array name="colores">
+        <item >желтый</item>
+        <item >красный</item>
+        <item >зеленый</item>
+    </string-array>
+</resources>

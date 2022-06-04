@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moonscreen</string>
+    <string name="CBrillo">Controle de brilho</string>
+    <string name="filtro">filtro</string>
+    <string name="Calificar_App">taxa App</string>
+    <string name="playNoD">Play Store não está disponível</string>
+    <string name="LD">farol dianteiro</string>
+    <string name="LT">lanterna traseira</string>
+    <string name="PermisoPantalla">tela de permissão solicitada</string>
+    <string name="Permisoconfi">configurações de permissão solicitada</string>
+    <string name="Permisocam">câmara de permissão solicitada</string>
+    <string name="Activar">ativar</string>
+    <string name="NoSensor">Nenhum sensor de luz externa</string>
+    <string name="MAutoActivado">definir automaticamente</string>
+    <string name="NoFfrontal">Sem flash frontal</string>
+    <string name="PermisoOK">permissão concedida</string>
+    <string name="PermisoRe">Esta autorização foi rejeitada pelo usuário</string>
+    <string name="ajuste">configurações</string>
+    <string name="selColor">Filtro colorido</string>
+    <string name="cancelar">cancelar</string>
+    <string name="inviteA">Convide amigos</string>
+    <string name="inviteAmigos">Convide seus amigos para usar MoonScreen</string>
+    <string name="notcont">Verifique a conexão com a Internet</string>
+    <string name="MostrarNoti">Mostrar Notificação</string>
+    <string name="textshare">Reduza o brilho da tela abaixo do mínimo, mais filtros de cor e lanterna!</string>
+    <string name="Alpha">alfa</string>
+    <string name="NoFlash">Sem flash</string>
+    <string name="camOcu">Casa ocupada por outro aplicativo</string>
+
+    <string-array name="colores">
+        <item >amarelo</item>
+        <item >vermelho</item>
+        <item >verde</item>
+    </string-array>
+</resources>

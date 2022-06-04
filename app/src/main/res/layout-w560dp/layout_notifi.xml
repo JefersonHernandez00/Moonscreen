@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:layout_width="55dp"
+        android:layout_height="60dp"
+        android:id="@+id/imgHome"
+        android:background="@drawable/ic_launcher"/>
+
+    <LinearLayout
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:padding="3dp"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@android:color/transparent"
+            android:id="@+id/BNlit" />
+
+        <ImageButton
+            android:padding="3dp"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@android:color/transparent"
+            android:id="@+id/BNpower" />
+
+        <ImageButton
+            android:padding="3dp"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@android:color/transparent"
+            android:id="@+id/BNfiltro" />
+    </LinearLayout>
+</LinearLayout>
